@@ -1,0 +1,3 @@
+recursive-include js/swfobject/resources *.*
+recursive-include js/swfobject *.txt
+include *.txt
